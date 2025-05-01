@@ -10,7 +10,7 @@
  - [Projeto 7 📄: Cadastro de Usuário](https://teuzzcastro.github.io/Projeto7-web1/)
 
 ## Sobre 📚
-Esse repositório tem o dever de reunir os sete projetos de Desenvolvimento Web 1, cada projeto aborda diferentes conceitos apenas usando a linguagem de marcação, <b>HTML</b>.
+Esse repositório tem o dever de reunir os sete projetos de <b>Desenvolvimento Web 1</b>, cada projeto aborda diferentes conceitos apenas usando a linguagem de marcação, <b>HTML</b>.
 
 <figure>
     <img src="img/html.png" width="120" height="75">
