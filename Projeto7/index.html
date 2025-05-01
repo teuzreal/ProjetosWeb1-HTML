@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cadastro</title>
+    </head>
+    <header>
+        <h1>Cadastro de Usuário</h1>
+    </header>
+    <body>
+        <h1>Formulário de Cadastro</h1>
+        <section>
+            <h3>Nome Completo:</h3>
+            <form action="/enviar_dados">
+            <label for="nome"></label>
+            <input type="text" id="nome", name="nome">
+            <h3>E-mail:</h3>
+            <label for="email"></label>
+            <input type="email" id="nome">
+            <h3>Senha:</h3>
+            <label for="senha"></label>
+            <input type="password" id="senha" name="senha">
+            <h3>Gênero:</h3>      
+            <label for="genero"></label>
+            <select>
+                <option>Masculino</option>
+                <option>Feminino</option>
+                <option>Prefiro não dizer</option>
+            </select>
+            <h3>Interesses:</h3>
+            <input type="checkbox" name="programação"> Programação <br>
+            <input type="checkbox" name="desing"> Desing <br>
+            <input type="checkbox" name="música"> Música <br>
+            <h3>Biografia:</h3>
+            <textarea name="biografia" id="biografia" cols="55" rows="4"></textarea> <br>
+            <input type="submit">
+            <h4>© 2025 Meu site pessoal</h4>
+        </section>
+    </body>
+</html>
